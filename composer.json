@@ -21,5 +21,11 @@
     },
     "autoload": {
         "psr-0": { "sonnt\\PhpSimple\\HtmlDomParser": "Src/" }
-    }    
+    },
+	"repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/sonnt0411/custom-simple-dome-html"
+    }
+],
 }
